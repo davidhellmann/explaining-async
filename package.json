@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "inquirer": "^3.0.6",
-    "node-fetch": "^1.6.3",
+    "node-fetch": "^2.6.1",
     "uniqid": "^4.1.1"
   }
 }
